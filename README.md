@@ -16,7 +16,7 @@ make local
 
 The resultant directory looks like this:
 
-&gt;lua-x.x.x<br />
+&gt;lua-5.3.4<br />
 &nbsp;&nbsp;&nbsp;&gt;Makefile<br />
 &nbsp;&nbsp;&nbsp;&gt;README<br />
 &nbsp;&nbsp;&nbsp;&gt;doc<br />
