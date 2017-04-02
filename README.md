@@ -22,3 +22,20 @@ The resultant directory looks like this:
 &nbsp;&nbsp;&nbsp;&gt;doc<br />
 &nbsp;&nbsp;&nbsp;&gt;install<br />
 &nbsp;&nbsp;&nbsp;&gt;src
+
+
+4. Running Lua - run lua using command line.
+
+&gt;./install/bin/lua
+
+This brings up a prompt to write lua code.
+
+Lua 5.3.4  Copyright (C) 1994-2017 Lua.org, PUC-Rio<br/>
+&gt; 
+
+
+5. Print "Hello World"
+
+Lua 5.3.4  Copyright (C) 1994-2017 Lua.org, PUC-Rio<br />
+&gt;print("Hello World")<br />
+Hello World
