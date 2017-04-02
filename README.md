@@ -14,11 +14,11 @@ make test
 make local
 
 
-The resultant directory will look like this:
+The resultant directory looks like this:
 
->lua-x.x.x
-  > Makefile	
-  > README		
-  > doc		
-  > install		
-  > src
+&gt;lua-x.x.x<br />
+&nbsp;&nbsp;&nbsp;&gt;Makefile<br />
+&nbsp;&nbsp;&nbsp;&gt;README<br />
+&nbsp;&nbsp;&nbsp;&gt;doc<br />
+&nbsp;&nbsp;&nbsp;&gt;install<br />
+&nbsp;&nbsp;&nbsp;&gt;src
